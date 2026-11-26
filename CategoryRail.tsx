@@ -1,4 +1,4 @@
-import { CATEGORIES } from '@/data/catalog';
+import ... from "./catalog";
 import SectionHeading from '@/components/ui/SectionHeading';
 import Reveal from '@/components/ui/Reveal';
 import type { CategoryId } from '@/types/catalog';
